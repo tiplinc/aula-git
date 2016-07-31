@@ -3,7 +3,7 @@
 Este projeto tem como objetivo apresentar os comandos utilizados para realizar um push durante o curso de git da Code Education. 
 
 ### Version
-1.0.0
+1
 
 ### Comandos utilizados
 
